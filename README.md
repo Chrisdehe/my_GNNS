@@ -17,7 +17,12 @@ The example input of this demo are 10 points, and parameters are as follows:
 | T = 5 |  5 greedy steps |
 
 ## job2
-This is a 
+### introduction
+This is an implement of the approximate algorithm to construct a k-Nearest Neighbor Grpah, with [Efficient K-Nearest Neighbor Graph Construction for Generic Similarity Measures](http://wwwconference.org/proceedings/www2011/proceedings/p577.pdf) for reference.
+
+To run the program correctly, you are supposed to download the dataset [sift1M](ftp://ftp.irisa.fr/local/texmex/corpus/sift.tar.gz) and modify the path of the input file. The code is written by C/C++, which can be compiled by g++.
+
+### experiment
 
 
 
