@@ -24,5 +24,6 @@ To run the program correctly, you are supposed to download the dataset [sift1M](
 
 ### experiment
 Set K=7, N=10000, 20000, 50000, 100000, 200000 respectively, and record the time cost, which is shown in the following table.
- ![image](https://github.com/Wyyyb/my_GNNS/image/table_1.png)
+
+![](https://github.com/Wyyyb/my_GNNS/blob/master/image/table_1.png)
 
