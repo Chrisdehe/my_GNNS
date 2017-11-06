@@ -25,20 +25,24 @@ To run the program correctly, you are supposed to download the dataset [sift1M](
 ### experiment
 #### Exp1
 Set K=7, while N=10000, 20000, 50000, 100000, 200000 respectively, and record the time cost, which is shown in the following table.
-![](https://github.com/Wyyyb/my_GNNS/tree/master/image/table_1.png)
+
+![image1](https://github.com/Wyyyb/my_GNNS/raw/master/image/table_1.png)
 
 Using the cftool in matlab, I get the approximate relation between time-cost and the size of N: 
 y= 0.0001162x<sup>1.263</sup>
-![](https://github.com/Wyyyb/my_GNNS/tree/master/image/1.png)
+
+![image2](https://github.com/Wyyyb/my_GNNS/raw/master/image/1.png)
 
 
 #### Exp2
 Set N=100000, while K=2, 5, 7, 10 respectively, and record the time cost, which is shown in the following table.
-![](https://github.com/Wyyyb/my_GNNS/tree/master/image/table_2.png)
+
+![image3](https://github.com/Wyyyb/my_GNNS/raw/master/image/table_2.png)
                       
 Using the cftool in matlab, I get the approximate relation between time-cost and the size of K: 
 y= 36.28x<sup>0.9805</sup>
-![](https://github.com/Wyyyb/my_GNNS/tree/master/image/2.png)
+
+![image4](https://github.com/Wyyyb/my_GNNS/raw/master/image/2.png)
 
 
 
