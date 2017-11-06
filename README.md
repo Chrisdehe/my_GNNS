@@ -23,7 +23,7 @@ This is an implement of the approximate algorithm to construct a k-Nearest Neigh
 To run the program correctly, you are supposed to download the dataset [sift1M](ftp://ftp.irisa.fr/local/texmex/corpus/sift.tar.gz) and modify the path of the input file. The code is written by C/C++, which can be compiled by g++.
 
 ### experiment
-
+Set K=7, N=10000, 20000, 50000, 100000, 200000 respectively, and record 
 
 
 
